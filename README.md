@@ -1,0 +1,2 @@
+# COVID-19-Detection-Python-1-
+You can find the .py scripts for implementing the networks mentioned in the paper. Code lines with # are comments and are not  meant to be utilized. The datasets used in the experiments are open-access datasets and their publishers are mentioned in the References of the Paper.  Please note that some parameters (e.g. epochs, batch_size, trainable layers etc) may not be set to the exact same parameters mentioned in the paper. You may need to tune them to obtain the results. 
